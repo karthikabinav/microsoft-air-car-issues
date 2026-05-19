@@ -1,14 +1,14 @@
 {
-  "microsoft/AirSim": 18,
-  "microsoft/ContosoAir": 0,
-  "microsoft/AirSim-NeurIPS2019-Drone-Racing": 0,
-  "microsoft/AirSim-Drone-Racing-VAE-Imitation": 0,
-  "microsoft/AirSim-Drone-Racing-Lab": 0,
-  "microsoft/AIReferenceArchitectures": 0,
-  "microsoft/AirSim-Drone-Racing-Lab-Source": 0,
-  "microsoft/AirbandData": 0,
-  "microsoft/apache-airflow-microsoft-fabric-plugin": 0,
-  "microsoft/airflow-providers-microsoft-fabric": 0,
-  "microsoft/woodgrove-airline": 0,
-  "microsoft/fabric-airflow-api-client-sample": 0
+  "AirSim": 18,
+  "ContosoAir": 0,
+  "AirSim-NeurIPS2019-Drone-Racing": 0,
+  "AirSim-Drone-Racing-VAE-Imitation": 0,
+  "AirSim-Drone-Racing-Lab": 0,
+  "AIReferenceArchitectures": 0,
+  "AirSim-Drone-Racing-Lab-Source": 0,
+  "AirbandData": 0,
+  "apache-airflow-microsoft-fabric-plugin": 0,
+  "airflow-providers-microsoft-fabric": 0,
+  "woodgrove-airline": 0,
+  "fabric-airflow-api-client-sample": 0
 }
