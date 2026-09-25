@@ -7,7 +7,7 @@
   "AIReferenceArchitectures": 0,
   "AirSim-Drone-Racing-Lab-Source": 0,
   "apache-airflow-microsoft-fabric-plugin": 0,
-  "airflow-providers-microsoft-fabric": 0,
   "AirbandData": 0,
+  "airflow-providers-microsoft-fabric": 0,
   "fabric-airflow-api-client-sample": 0
 }
